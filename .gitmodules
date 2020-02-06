@@ -1,0 +1,9 @@
+[submodule "bashgah-auto"]
+	path = bashgah-auto
+	url = https://github.com/bsg-auto/bsg-auto
+[submodule "CaptchaReading/more-data-bot"]
+	path = CaptchaReading/more-data-bot
+	url = https://github.com/bsg-auto/more-data-bot
+[submodule "CaptchaReading/machine-learning"]
+	path = CaptchaReading/machine-learning
+	url = https://github.com/bsg-auto/machine-learning
