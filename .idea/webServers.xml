@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f9b61fa6-fe50-4446-a00c-11e26c606646" name="liara/bsg-auto" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="D:\Devel\Projects" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>

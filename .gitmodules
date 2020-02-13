@@ -7,3 +7,6 @@
 [submodule "CaptchaReading/machine-learning"]
 	path = CaptchaReading/machine-learning
 	url = https://github.com/bsg-auto/machine-learning
+[submodule "telegram-bot"]
+	path = telegram-bot
+	url = https://github.com/bsg-auto/telegram-bot
