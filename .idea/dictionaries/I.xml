@@ -2,19 +2,32 @@
   <dictionary name="I">
     <words>
       <w>aesjs</w>
+      <w>agah</w>
+      <w>arraybuffer</w>
       <w>axios</w>
       <w>bashgah</w>
+      <w>bourse</w>
       <w>datasets</w>
+      <w>domcontentloaded</w>
       <w>enotfound</w>
+      <w>fastify</w>
       <w>getaddrinfo</w>
       <w>ismaili</w>
       <w>jimp</w>
       <w>jsdom</w>
+      <w>latn</w>
       <w>liara</w>
+      <w>networkidle</w>
+      <w>nonsignificant</w>
+      <w>ooops</w>
+      <w>outdent</w>
       <w>preds</w>
       <w>strs</w>
+      <w>telegraf</w>
       <w>upsert</w>
       <w>upserted</w>
+      <w>upserts</w>
+      <w>webhook</w>
     </words>
   </dictionary>
 </component>

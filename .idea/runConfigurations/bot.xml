@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="bot" type="NodeJSConfigurationType" node-parameters="--icu-data-dir=node_modules/full-icu --unhandled-rejections=warn" path-to-js-file="main.js" working-dir="$PROJECT_DIR$/telegram-bot">
+    <envs>
+      <env name="BOT_TOKEN" value="#########:???????????????????????????????????" />
+      <env name="AES_KEY" value="################################" />
+      <env name="DB_URI" value="mongodb[+srv]://[username:password@]host1[:port1][,...hostN[:portN]][/[database][?options]]" />
+      <env name="PUPPETEER_SERVICE_ORIGIN" value="https://host[:port]" />
+      <env name="PUPPETEER_SERVICE_BEARER_KEY" value="*" />
+    </envs>
+    <method v="2" />
+  </configuration>
+</component>

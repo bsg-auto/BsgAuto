@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/bashgah-auto.iml" filepath="$PROJECT_DIR$/.idea/modules/bashgah-auto.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/machine-learning.iml" filepath="$PROJECT_DIR$/.idea/modules/machine-learning.iml" group="CaptchaReading" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/more-data-bot.iml" filepath="$PROJECT_DIR$/.idea/modules/more-data-bot.iml" group="CaptchaReading" />
+      <module fileurl="file://$PROJECT_DIR$/../puppeteer-service/puppeteer-service.iml" filepath="$PROJECT_DIR$/../puppeteer-service/puppeteer-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/telegram-bot.iml" filepath="$PROJECT_DIR$/.idea/modules/telegram-bot.iml" />
     </modules>
   </component>

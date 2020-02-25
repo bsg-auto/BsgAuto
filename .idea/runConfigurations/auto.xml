@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="auto" type="NodeJSConfigurationType" path-to-js-file="main.js" working-dir="$PROJECT_DIR$/bashgah-auto">
+    <envs>
+      <env name="username" value="*" />
+      <env name="password" value="*" />
+      <env name="AES_KEY" value="################################" />
+      <env name="DB_URI" value="mongodb[+srv]://[username:password@]host1[:port1][,...hostN[:portN]][/[database][?options]]" />
+    </envs>
+    <method v="2" />
+  </configuration>
+</component>
